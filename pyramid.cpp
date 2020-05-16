@@ -29,6 +29,8 @@ int main()
 	//display the sum and difference
 	cout << "Sum: " << numSum << endl;
 	cout << "Difference: " << numDiff << endl;
+	cout<<"git lab"<<endl;
+	cout<<"class"<<endl;
 
 	system("pause");
 	return 0;
